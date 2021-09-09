@@ -19,13 +19,14 @@ For Example:
 <br>
 Open GML Playground and create a Widget by writing this:
 
-    `@GUI::Widget {
+    @GUI::Widget {
       @GUI::Button {
         text:"Widgets!"
       }
-    }`
-
-
+    }
+    
+You don't have to worry about the button for now. This creates a Widget and adds a Button with the Widget as Parent. We can add more inside the Wdget and they will stay parented to the Widget.
+<br>
 
 
 
