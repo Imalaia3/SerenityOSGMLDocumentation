@@ -17,10 +17,12 @@ GUI::Widget is used as a canvas for other items.
 For Example:
 <br>
 <br>
-We create a Widget and then we add a button with the text "Widgets!". The Output Is This:
-<br>
-[Widgets1]: /url/to/img.jpg
-
+Open GML Playground and create a Widget by writing this:
+    @GUI::Widget {
+      @GUI::Button {
+        text:"Widgets!"
+      }
+    }
 
 
 
