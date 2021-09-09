@@ -18,11 +18,12 @@ For Example:
 <br>
 <br>
 Open GML Playground and create a Widget by writing this:
-    @GUI::Widget {
+
+    `@GUI::Widget {
       @GUI::Button {
         text:"Widgets!"
       }
-    }
+    }`
 
 
 
