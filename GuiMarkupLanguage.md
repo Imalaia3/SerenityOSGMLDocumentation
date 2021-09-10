@@ -27,5 +27,20 @@ layout:
 "layout: " is used to set the layout of items (Top To Botton, Left To Right)
 <br>
 TODO:(Imalaia3): Make Desciption "GooD"
-
+<br>
+@GUI::VerticalBoxLayout{}
+<br>
+This can be added to the "layout: " to make the items in the widget go Top To Bottom.
+<br>
+@GUI::HorizontalBoxLayout{}
+<br>
+This can be added to the "layout: " to make the items in the widget go Left To Right.
+<br>
+<br>
+You can add an item to: GUI::HorizontalBoxLayout / GUI::VerticalBoxLayout
+<br>
+## spacing: ##
+spacing: <number> defines the space (pixels) between items in the widget. Example:
+    
+    @GUI::Widget {
 
