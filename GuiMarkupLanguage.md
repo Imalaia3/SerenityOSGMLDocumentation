@@ -22,6 +22,10 @@ GUI::Widget is used as a canvas for for other items (like Button, TextBox)
 
 <br>
 <br>
-layout: 
+layout:
+<br>
+"layout: " is used to set the layout of items (Top To Botton, Left To Right)
+<br>
+TODO:(Imalaia3): Make Desciption "GooD"
 
 
