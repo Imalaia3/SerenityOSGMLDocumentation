@@ -41,6 +41,7 @@ You can add an item to: GUI::HorizontalBoxLayout / GUI::VerticalBoxLayout
 <br>
 ## Spacing: ##
 <br>
+<br>
 spacing: <number> defines the space (pixels) between items in the widget. Example:
     
     layout: @GUI::VerticalBoxLayout {
