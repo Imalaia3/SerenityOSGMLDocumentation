@@ -39,7 +39,7 @@ This can be added to the "layout: " to make the items in the widget go Left To R
 <br>
 You can add an item to: GUI::HorizontalBoxLayout / GUI::VerticalBoxLayout
 <br>
-## spacing: ##
+## Spacing ##
 <br>
 spacing: <number> defines the space (pixels) between items in the widget. Example:
     
