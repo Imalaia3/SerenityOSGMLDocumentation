@@ -11,23 +11,17 @@ GML is a GUI language for SerenityOS. It is used to make UIs for apps.
 
 
 
-## GUI::Widget ##
-GUI::Widget is used as a canvas for other items.
+## @GUI::Widget ##
+GUI::Widget is used as a canvas for for other items (like Button, TextBox)
 <br>
-For Example:
-<br>
-<br>
-Open GML Playground and create a Widget by writing this:
-
+## Usage ##
     @GUI::Widget {
-      @GUI::Button {
-        text:"Widgets!"
-      }
-    }
+        <Items...>
     
-You don't have to worry about the button for now. This creates a Widget and adds a Button with the Widget as Parent. We can add more inside the Wdget and they will stay parented to the Widget.
+    }
+
 <br>
-
-
+<br>
+layout: 
 
 
