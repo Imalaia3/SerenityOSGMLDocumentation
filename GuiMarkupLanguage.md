@@ -56,7 +56,8 @@ This can be set to true / false. It fills the background of the widget with a co
 <br>
 Example
 <br>
-    @GUI::Widget {
-        fill_with_background_color: true
+<br>
+        @GUI::Widget {
+            fill_with_background_color: true
 
-    }
+        }
