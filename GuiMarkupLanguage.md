@@ -59,4 +59,4 @@ Example
     @GUI::Widget {
         fill_with_background_color: true
 
-}
+    }
