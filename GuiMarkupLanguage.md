@@ -48,3 +48,6 @@ spacing: <number> defines the space (pixels) between items in the widget. Exampl
         spacing: 20 //(< Spacing in pixels)
     }
 
+<br>
+<br>
+    ## fill_with_background_color ##
